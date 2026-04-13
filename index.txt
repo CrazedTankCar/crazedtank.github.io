@@ -159,8 +159,6 @@ const siteConfig = {
             <p><strong>Grade & Section:</strong> BSCE 1-B</p>
             <hr width="50%">
             <p><big><i>“Lloyd is Water, Water is Good, Lloyd is Good”</i></big></p>
-            <br>
-            <p>Thank you for visiting. Let's protect every drop.</p>
         `
     }
 };
