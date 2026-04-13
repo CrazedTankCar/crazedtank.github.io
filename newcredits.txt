@@ -5,7 +5,7 @@
 <body bgcolor="#F0F8FF">
     <br><br>
     <center>
-        <table width="100%" bgcolor="white" border="1" cellpadding="0">
+        <table width="100%" bgcolor="white" border="0" cellpadding="0">
                 <td align="center">
                     <h1><font color="#FF8C00">Credits</font></h1>
                     <p><strong>Name:</strong> Lloyd A. Sample</p>
