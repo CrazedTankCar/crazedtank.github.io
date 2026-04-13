@@ -1,0 +1,20 @@
+<html>
+<head>
+    <title>Credits – WASH Advocacy</title>
+</head>
+<body bgcolor="#F0F8FF">
+    <br><br>
+    <center>
+        <table width="100%" bgcolor="white" border="1" cellpadding="0">
+                <td align="center">
+                    <h1><font color="#FF8C00">Credits</font></h1>
+                    <p><strong>Name:</strong> Lloyd A. Sample</p>
+                    <p><strong>Subject:</strong> GEC Elective 1 – Environmental Advocacy and Digital Literacy</p>
+                    <p><strong>Grade & Section:</strong> BSCE 1-B</p>
+                    <hr width="50%">
+                    <p><big><i>“Lloyd is Water, Water is Good, Lloyd is Good”</i></big></p>
+                </td>
+        </table>
+    </center>
+</body>
+</html>

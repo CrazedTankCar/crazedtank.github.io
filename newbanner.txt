@@ -1,0 +1,10 @@
+<html>
+<head>
+    <title>WASH Banner</title>
+</head>
+<body bgcolor="#1E3A8A" text="#FF8C00">
+    <center>
+        <h1>WASH</h1>
+    </center>
+</body>
+</html>

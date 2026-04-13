@@ -1,0 +1,18 @@
+<html>
+<head>
+    <title>Navigation</title>
+</head>
+<body bgcolor="#FF8C00">
+    <center>
+        <table border="0" cellpadding="0">
+            <tr>
+                <td><a href="home.html" target="main"><font size="4" color="#1E3A8A">Home</font></a></td>
+                <td><a href="about.html" target="main"><font size="4" color="#1E3A8A">About</font></a></td>
+                <td><a href="message.html" target="main"><font size="4" color="#1E3A8A">Message</font></a></td>
+                <td><a href="source.html" target="main"><font size="4" color="#1E3A8A">Source</font></a></td>
+                <td><a href="credits.html" target="main"><font size="4" color="#1E3A8A">Credits</font></a></td>
+            </tr>
+        </table>
+    </center>
+</body>
+</html>
