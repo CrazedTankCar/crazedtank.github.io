@@ -87,7 +87,6 @@ const siteConfig = {
         title: "Welcome to WASH Advocacy",
         content: `
             <p>Clean water is not a privilege – it is a human right.<br>
-            <strong>WASH</strong> stands for <strong>Water, Sanitation and Hygiene</strong>.<br>
             Our mission is to raise awareness about water security, especially in the Philippines,<br>
             and to inspire action for safe, accessible, and sustainable water for all.</p>
             <p><em>"Every drop counts. Let's protect our most precious resource."</em></p>
@@ -118,19 +117,18 @@ const siteConfig = {
 
             <h2>7 Major Water Problems in the Philippines</h2>
             <ul>
-                <li><strong>1. Contaminated groundwater:</strong> Heavy metals and bacteria from improper waste disposal.</li>
-                <li><strong>2. Unsafe drinking water in rural areas:</strong> 1 in 10 Filipinos rely on unsafe sources.</li>
-                <li><strong>3. Water pollution from factories and mines:</strong> Rivers like Pasig and Marilao are heavily polluted.</li>
-                <li><strong>4. Inadequate sewage and sanitation:</strong> Only ~10% of households are connected to sewerage systems.</li>
-                <li><strong>5. Seasonal water scarcity:</strong> El Niño causes severe droughts in parts of Luzon and Mindanao.</li>
-                <li><strong>6. Plastic waste choking waterways:</strong> Philippines is one of the top ocean plastic polluters.</li>
-                <li><strong>7. Poor water governance:</strong> Leaking pipes, corruption, and lack of data transparency.</li>
+                <ol><strong> Contaminated groundwater:</strong> Heavy metals and bacteria from improper waste disposal.</ol>
+                <ol><strong> Unsafe drinking water in rural areas:</strong> 1 in 10 Filipinos rely on unsafe sources.</ol>
+                <ol><strong> Water pollution from factories and mines:</strong> Rivers like Pasig and Marilao are heavily polluted.</ol>
+                <ol><strong> Inadequate sewage and sanitation:</strong> Only ~10% of households are connected to sewerage systems.</ol>
+                <ol><strong> Seasonal water scarcity:</strong> El Niño causes severe droughts in parts of Luzon and Mindanao.</ol>
+                <ol><strong> Plastic waste choking waterways:</strong> Philippines is one of the top ocean plastic polluters.</ol>
+                <ol><strong> Poor water governance:</strong> Leaking pipes, corruption, and lack of data transparency.</ol>
             </ul>
 
-            <h2>The Reality of Water Crisis</h2>
             <table class="image-row" border="0">
                 <tr>
-                    <td><img src="pasi river.jpeg" alt="Polluted river"><br><strong>Polluted river</strong></td>
+                    <td><img src="pasig_river.jpeg" alt="Polluted river"><br><strong>Polluted river</strong></td>
                     <td><img src="drought.webp" alt="Water scarcity"><br><strong>Water scarcity</strong></td>
                     <td><img src="ahon_tubig.jpg" alt="Clean water"><br><strong>Clean water</strong></td>
                 </tr>
@@ -156,8 +154,8 @@ const siteConfig = {
     credits: {
         title: "Credits",
         content: `
-            <p><strong>Name:</strong> Lloyd A. Sample</p>
-            <p><strong>Subject:</strong> GEC Elective 1 – Environmental Advocacy and Digital Literacy</p>
+            <p><strong>Name:</strong> Havier, Wazeer H.</p>
+            <p><strong>Subject:</strong> GEC Elective 1</p>
             <p><strong>Grade & Section:</strong> BSCE 1-B</p>
             <hr width="50%">
             <p><big><i>“Lloyd is Water, Water is Good, Lloyd is Good”</i></big></p>
